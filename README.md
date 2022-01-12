@@ -19,13 +19,9 @@ And because I love Hiberfile
 
 ### Getting Started On Linux
 
-For linux users using Nautilus, use these 3 commands :
+For linux users using Nautilus (tested on debian/ubuntu only)
 
-`npm install hibercli`
-
-`echo "gnome-terminal -- hibercli --upload ${NAUTILUS_SCRIPT_SELECTED_FILE_PATHS}" > ~/.local/share/nautilus/scripts/HiberSend`
-
-`chmod 777 ~/.local/share/nautilus/scripts/HiberSend`
+```./linux-install```
 
 
 ## ⌨️ Credits
