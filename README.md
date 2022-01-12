@@ -26,6 +26,9 @@ For linux users using Nautilus (tested on debian/ubuntu only)
 
 ## ⌨️ Credits
 
+This repo is just stupids scripts
+All credits goes to :
+
 Hiberfile : https://github.com/HiberFile/HiberFile
 
 Hibercli : https://github.com/johan-perso/hibercli
