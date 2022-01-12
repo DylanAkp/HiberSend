@@ -1,1 +1,1 @@
-gnome-terminal -- hibercli --upload ${NAUTILUS_SCRIPT_SELECTED_FILE_PATHS}
+gnome-terminal -- bash -c "hibercli --upload ${NAUTILUS_SCRIPT_SELECTED_FILE_PATHS}; bash"
