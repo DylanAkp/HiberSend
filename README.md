@@ -26,7 +26,7 @@ For linux users using Nautilus (tested on debian/ubuntu only)
 
 ## ⌨️ Credits
 
-This repo is just stupids scripts
+This repo is basically some stupids scripts
 All credits goes to :
 
 Hiberfile : https://github.com/HiberFile/HiberFile
