@@ -1,36 +1,34 @@
-![Alt Text](---)
+![Alt Text](https://i.imgur.com/BMEEVX5.gif)
 
 ## ❓ Why
 
-With this project, you can see the airtags location on a simple web-app from any device.
-The idea of this project is to learn how Airtags location are stored and how to use them, it has been made for educational purposes.
+I've made this simple script to fastly share files from Windows.
+And because I love Hiberfile
 
 ## 🚀 Quick start
 
-### You'll need
+### Getting Started On Windows
 
-- A bit of time
-- A MacOS Device that needs to be always on (to get airtags location)
+1. Clone the repository or download it
 
-### Getting Started On MacOS
-
-- Install brew (`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`)
-
-- Install the jq utility (`brew install jq`)
+2. Execute install.ps1 (Right-click on it, Execute with powershell)
    
-- Create a folder on your Desktop nammed "Airtags", put the Airtags.sh on this folder
+3. When the script ask to install Node, do it, then click "OK"
 
-- Make the shell file executable (`chmod 700 Airtags.sh`)
+4. Accept to add the entry to Windows Registry
 
-- ----TO BE DONE----
+### Getting Started On Linux
 
-### Getting Started On Your Non-Apple Device
+For linux users using Nautilus (tested on debian/ubuntu only)
 
-1. Type the IP of your Mac on your adress bar, login, and that's it !
+```./linux-install```
 
 
 ## ⌨️ Credits
 
-This repo is based on AirtagAlex's project.
+This repo is basically some stupids scripts
+All credits goes to :
 
-AirtagAlex : https://github.com/icepick3000/AirtagAlex
+Hiberfile : https://github.com/HiberFile/HiberFile
+
+Hibercli : https://github.com/johan-perso/hibercli
